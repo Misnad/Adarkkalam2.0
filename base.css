@@ -1,5 +1,7 @@
 body {
-    background: url('images/bg.jpg') top center no-repeat;
+    background-color: #193026;
+    background-image: url('images/bg.jpg');
+    background-repeat: no-repeat;
     background-size: cover;
     font-family: 'IBM Plex Sans', sans-serif;
 }
@@ -9,19 +11,18 @@ body {
 }
 
 .home {
-    width: 100%;
-    margin-top: 30vh;
+    margin-top: 25vh;
     position: relative;
     color: white;
     font-weight: 600;
-    font-size: 2.37em;
+    font-size: 1.3em;
     letter-spacing: 0.2em;
 }
 
 .sub {
     font-family: 'IBM Plex Sans', sans-serif;
     font-weight: 100;
-    font-size: 0.6em;
+    font-size: 0.8em;
     letter-spacing: 0.01em;
 }
 
@@ -42,7 +43,8 @@ button {
     cursor: pointer;
     text-decoration: none;
     outline: 0;
-    padding: 1em 3em 1em 3em;
+    padding: 0.8em;
+    width: 12em;
     text-align: center;
     border-radius: 3em;
     font-weight: 400;
@@ -59,5 +61,5 @@ button {
 }
 
 .btn-white {
-    margin: 1em;
+    margin: 0.7em;
 }
