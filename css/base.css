@@ -1,0 +1,32 @@
+body {
+    background-color: #193026;
+    background-image: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+footer {
+    position: relative;
+    color: #ddd;
+    font-size: 0.8em;
+    text-align: center;
+    max-width: 80%;
+    margin: 4em auto 3em auto;
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+
+.com {
+    background-color: white;
+    color: black;
+    font-size: 0.5em;
+    display: inline-block;
+    border-radius: 3em;
+    padding: 0px 2px 0px 2px;
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    letter-spacing: 0.2em;
+}
