@@ -30,3 +30,17 @@ footer {
     font-family: 'IBM Plex Sans Condensed', sans-serif;
     letter-spacing: 0.2em;
 }
+
+.github {
+    position: absolute;
+    height: 25px;
+    right: 10px;
+    top: 10px;
+}
+
+.instagram {
+    position: absolute;
+    height: 25px;
+    right: 45px;
+    top: 10px;
+}
