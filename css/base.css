@@ -13,7 +13,7 @@ body {
 footer {
     position: relative;
     color: #ddd;
-    font-size: 0.8em;
+    font-size: 0.7em;
     text-align: center;
     max-width: 80%;
     margin: 4em auto 3em auto;
@@ -23,7 +23,7 @@ footer {
 .com {
     background-color: white;
     color: black;
-    font-size: 0.5em;
+    font-size: 0.4em;
     display: inline-block;
     border-radius: 3em;
     padding: 0px 2px 0px 2px;
