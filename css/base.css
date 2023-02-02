@@ -44,3 +44,7 @@ footer {
     right: 45px;
     top: 10px;
 }
+
+button, .disabled {
+    background-color: gray;
+}
